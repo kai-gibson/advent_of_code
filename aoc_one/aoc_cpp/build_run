@@ -1,0 +1,3 @@
+#/bin/sh
+
+g++ ElfFood.cpp aoc_one.cpp && ./a.out
